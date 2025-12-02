@@ -5,4 +5,4 @@ ForgeGradle http fix
 
 Minecraft mod development framework used by Forge and FML for the gradle build system
 
-+ Fix for the download of minecraft assets failing with error code 400
+\+ Fix for the download of minecraft assets failing with error code 400
